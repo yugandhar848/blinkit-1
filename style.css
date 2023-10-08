@@ -47,7 +47,15 @@ background-color: #F8F8F8;
 .btn-login-btn{
     padding: 25px;
     background-color:white;
+   background-image: linear-gradient(to bottom, #5cc456, #3a8f35);
+    transform:translate(0 , 10px);
+    
 }
+.btn-login-btn:hover{
+    cursor:pointer;
+    box-shadow:3px 3px 5px black:
+}
+    
 .search-bar>input:focus{
     outline: none;
 }
