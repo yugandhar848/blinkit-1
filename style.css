@@ -54,7 +54,7 @@ background-color: #F8F8F8;
 .btn-login-btn:hover{
     cursor:pointer;
     box-shadow:3px 3px 10px black;
-    transorm:translate(0% , 30%);
+    transorm:translateY(-5px);
 }
     
 .search-bar>input:focus{
