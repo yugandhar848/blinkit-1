@@ -48,12 +48,13 @@ background-color: #F8F8F8;
     padding: 25px;
     background-color:white;
    background-image: linear-gradient(to bottom, #5cc456, #3a8f35);
-    transform:translate(0 , 10px);
+    transform:all 2s ease;
     
 }
 .btn-login-btn:hover{
     cursor:pointer;
-    box-shadow:3px 3px 5px black:
+    box-shadow:3px 3px 10px black;
+    transorm:translate(0% , 30%);
 }
     
 .search-bar>input:focus{
